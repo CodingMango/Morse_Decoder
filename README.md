@@ -1,4 +1,4 @@
 # Morse_Decoder
 Morse code Decoder (using pushbuttons)
 
-![Image](https://github.com/user-attachments/assets/918275b1-85a8-409d-8fd9-e8f42b7347d8)
+![Image](https://github.com/user-attachments/assets/0ee1e9e6-a509-4bfd-9a17-4793f661536c)
