@@ -18,7 +18,7 @@ Message: ... (three dots mean 's' in morse)
 
 ![Image](https://github.com/user-attachments/assets/b660b331-d92e-4368-b90a-49445da0e8c3)
 
-Here is the link of the simulation in wokwi simulator: https://wokwi.com/projects/425214595189811201
+Here is the link to the simulation in the Wokwi simulator: https://wokwi.com/projects/425214595189811201
 
 You can decrypt any message by each character
 
