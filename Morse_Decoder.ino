@@ -1,4 +1,4 @@
-//Morse Code ENCODER (13-03-2025)
+//Morse Code DECODER (13-03-2025)
 //for 5wpm speed approx
 #include <Wire.h>
 #include <Adafruit_GFX.h>
