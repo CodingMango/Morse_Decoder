@@ -1,7 +1,7 @@
 # Morse_Decoder
 Morse code Decoder (using pushbuttons and OLED Screen) with 5wpm speed
 
-I have used two pushbuttons. One pushbutton sends an encrypted Morse Code message to Arduino for decryption; the other pushbutton is used to display the decrypted message(character) through the OLED screen.
+I have used two pushbuttons. One pushbutton sends an encrypted Morse Code message to Arduino for decryption; the other pushbutton is used to display the decrypted message(character) through the OLED screen. You have to push the pushbutton for 1sec approx for a "dot" and 2sec for a "dash".
 
 ![Image](https://github.com/user-attachments/assets/dbacc7d3-e60c-4093-8351-cb1eabe9d4db)
 
@@ -17,6 +17,8 @@ Message: ... (three dots mean 's' in morse)
 ![Image](https://github.com/user-attachments/assets/5a434ad5-0f73-45bd-bd45-3563d1765809)
 
 ![Image](https://github.com/user-attachments/assets/b660b331-d92e-4368-b90a-49445da0e8c3)
+
+Here is the link of the simulation in wokwi simulator: https://wokwi.com/projects/425214595189811201
 
 You can decrypt any message by each character
 
